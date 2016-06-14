@@ -49,7 +49,6 @@ prerender.crawlerUserAgents = [
   'quora link preview',
   'showyoubot',
   'outbrain',
-  'pinterest/0.',
   'developers.google.com/+/web/snippet',
   'slackbot',
   'vkShare',
